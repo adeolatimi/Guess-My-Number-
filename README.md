@@ -1,6 +1,6 @@
 # Guess My Number Game
 
-This is a simple Guess My Number game created using [insert language/framework used]. In this game, the computer generates a random number between a specified range, and the player has to guess that number within a certain number of attempts.
+This is a simple Guess My Number game created using HTML CSS AND JAVASCRIPT. In this game, the computer generates a random number between a specified range, and the player has to guess that number within a certain number of attempts.
 
 ## How to Play
 
